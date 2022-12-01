@@ -24,6 +24,5 @@ String[] ChangedArray(String[] arr)
 } 
 
 String[] arr =  FillArray(3);
-Console.WriteLine(String.Join(", ", arr));
 String[] changeArr =  ChangedArray(arr);
-Console.WriteLine(String.Join(", ", changeArr));
+Console.WriteLine($"[{String.Join(", ", arr)}] ->[{String.Join(", ", changeArr)}]");
