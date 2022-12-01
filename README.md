@@ -14,4 +14,4 @@
 
    **---> вывод обеих массивов**
 
-![Блок-Схема](Block-diagram.png)
+![Блок-схема](https://raw.githubusercontent.com/ArseniyZub/Control-work/0e450e0ece9a72fdb5a8eba0c4a5aa0f1feaeb56/Block-diagram.png.png)
